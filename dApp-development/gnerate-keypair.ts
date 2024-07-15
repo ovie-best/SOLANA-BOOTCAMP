@@ -8,4 +8,5 @@ const secretKey = base58.encode(keypair.secretKey);
 console.log(`The public key is ${publicKey} `);
 console.log(`The secret key is ${secretKey} `);
 
-/// Generated PublicKey: 2F6XaDTAw2AhKZqFkF2m5Fwf2kYiybVRRTjCyU2jWCiz
+/// Generated PublicKey:2F6XaDTAw2AhKZqFkF2m5Fwf2kYiybVRRTjCyU2jWCiz
+// newly generated publicKey to test for transfer is account is 0 : GkBZU1rshgZSUeUNbxfsXA1wLAtqxaLHDyrJiDgzNDUq
