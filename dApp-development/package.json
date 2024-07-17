@@ -13,6 +13,8 @@
     "@metaplex-foundation/mpl-token-metadata": "^2.13.0",
     "@solana-developers/helpers": "^2.3.0",
     "@solana/spl-token": "^0.4.8",
+    "@solana/wallet-adapter-base": "^0.9.23",
+    "@solana/wallet-adapter-react": "^0.15.35",
     "@solana/web3.js": "^1.95.0",
     "base58": "^2.0.1",
     "bs58": "^6.0.0",
